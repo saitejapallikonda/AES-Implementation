@@ -1,9 +1,7 @@
 /*
  * Indian Institute of Information Technology Vadodara International Campus Diu
- * CS-364: Introduction to Cryptography and Network Security LAB
- * LAB Assignment III
- * Done by : Pallikonda Sai Teja 
- * Student ID : 202011052
+ * CS-364: Introduction to Cryptography and Network Security
+ * Done by : Pallikonda Sai Teja
  */
 
 #include <stdio.h>
